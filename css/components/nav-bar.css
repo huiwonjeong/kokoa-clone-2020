@@ -23,10 +23,6 @@
   bottom: 15px;
 }
 .nav__update-notification {
-  background-color: tomato;
-  width: 8px;
-  height: 8px;
-  border-radius: 50%;
   position: absolute;
   left: 30px;
   bottom: 30px;
